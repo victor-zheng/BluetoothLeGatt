@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\yi_2\\AppData\\Local\\Android\\sdk\\samples\\android-22\\connectivity\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\yi_2\\AppData\\Local\\Android\\sdk\\samples\\android-22\\connectivity\\BluetoothLeGatt\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\yi_2\\AppData\\Local\\Android\\sdk\\samples\\android-22\\connectivity\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\yi_2\\AppData\\Local\\Android\\sdk\\samples\\android-22\\connectivity\\BluetoothLeGatt\\Application\\src\\main\\res\\menu\\main.xml"
+    }
+]
